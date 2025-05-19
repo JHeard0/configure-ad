@@ -41,7 +41,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/HvokojN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 
-<h3>Create the Domain Admin Jane Doe</h3>
+<h3>Create the Domain Admin "Jane Doe" </h3>
 <p></p>
 <img src="https://i.imgur.com/pvozL2p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
