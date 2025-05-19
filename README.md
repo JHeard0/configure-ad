@@ -39,8 +39,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <h3>Create The Organizational Units "Employees" and "Admins" </h3>
 <img src="https://i.imgur.com/HvokojN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
 
 <h3>Create the Domain Admin Jane Doe</h3>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p></p>
+<img src="https://i.imgur.com/pvozL2p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="https://i.imgur.com/mkRP7qS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<h3> Drag Client-1 into the _Clients folder</h3>
+<p></p>
+<img src="https://i.imgur.com/GYf7Xn7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<h3>Log in to Client-1 Virtual Machine and join the domain created prior</h3>
+<p></p>
+<img src="https://i.imgur.com/CV47waW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<h3>Log in to Client-1 as a non-administrative user "Jim Scott"</h3>
+<img src="https://i.imgur.com/juVh9JY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
