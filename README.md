@@ -54,6 +54,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h3>Log in to Client-1 Virtual Machine and join the domain created prior</h3>
 <p></p>
 <img src="https://i.imgur.com/CV47waW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 <h3>Log in to Client-1 as a non-administrative user "Jim Scott"</h3>
+<p></p>
 <img src="https://i.imgur.com/juVh9JY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="https://i.imgur.com//Dp34yFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="https://i.imgur.com/5mT4twt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="https://i.imgur.com/EBvT7Ij.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+
+<h2>The End of The Lab</h2>
