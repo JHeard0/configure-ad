@@ -66,4 +66,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/EBvT7Ij.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 
-<h2>The End of The Lab</h2>
+<h2>The End of The Lab, Check Out The Other Labs</h2>
+Network Security Groups (NSGs) and Inspecting Network Protocols:
+(https://github.com/JHeard0/azure-network-protocols)
+<p></p>
+osTicket: Ticket Lifecycle Examples:
+(https://github.com/JHeard0/ticket-lifecycle)
