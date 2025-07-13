@@ -31,39 +31,39 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 <h3>Install Active Directory & add a new forest/domain</h3>
 <p>
-<img src="https://i.imgur.com/GMgA4lS.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GMgA4lS.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
-<img src="https://i.imgur.com/0sx8FuG.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0sx8FuG.png" alt="Disk Sanitization Steps" width="70%"/>
 
 </p>
 <p>
 <h3>Create The Organizational Units "Employees" and "Admins" </h3>
-<img src="https://i.imgur.com/HvokojN.png height= alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HvokojN.png height= alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
 
 <h3>Create the Domain Admin "Jane Doe" </h3>
 <p></p>
-<img src="https://i.imgur.com/pvozL2p.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pvozL2p.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
-<img src="https://i.imgur.com/mkRP7qS.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mkRP7qS.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
 <h3> Drag Client-1 into the _Clients folder</h3>
 <p></p>
-<img src="https://i.imgur.com/GYf7Xn7.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GYf7Xn7.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
 <h3>Log in to Client-1 Virtual Machine and join the domain created prior</h3>
 <p></p>
-<img src="https://i.imgur.com/CV47waW.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CV47waW.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
 <h3>Log in to Client-1 as a non-administrative user "Jim Scott"</h3>
 <p></p>
-<img src="https://i.imgur.com/juVh9JY.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/juVh9JY.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
-<img src="https://i.imgur.com//Dp34yFf.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com//Dp34yFf.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
-<img src="https://i.imgur.com/5mT4twt.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5mT4twt.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
-<img src="https://i.imgur.com/EBvT7Ij.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EBvT7Ij.png" alt="Disk Sanitization Steps" width="70%"/>
 <p></p>
 
 <h2>The End of The Lab, Check Out The Other Labs</h2>
